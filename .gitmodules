@@ -1,0 +1,3 @@
+[submodule "guardian-grove-frontend"]
+	path = guardian-grove-frontend
+	url = https://github.com/fatima-alzahraa-hammoud/guardian-grove-frontend.git
