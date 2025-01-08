@@ -35,7 +35,7 @@
 
 - As a parent, I want insights into my child’s preferences and habits to offer personalized guidance for their growth.
 
-- As a parent, I want to track my family's progress on a shared leaderboard, so I can celebrate our collective accomplishments and encourage everyone to participate in tasks and activities together.
+- As a parent, I want to track our family’s progress on the leaderboard, so I can celebrate our accomplishments and motivate everyone to participate.
 
 ### Child User Stories
 
