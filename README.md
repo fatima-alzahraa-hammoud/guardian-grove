@@ -72,3 +72,11 @@
 > We designed Guardian Grove using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 - Project Figma design [figma](https://www.figma.com/design/zX8v8ytWFBT3lOHK06YwyS/Final-Project-Ui-Ux?node-id=0-1&t=SiCWM1WktrHfQWUm-1)
+
+
+### Mockups
+| Login screen  | Adventures Screen | AIFriend Screen |
+| ---| ---| ---|
+| ![Landing](./readme/demo/login.png) | ![fsdaf](./readme/demo/Adventures.png) | ![fsdaf](./readme/demo/AIFriend.png) |
+
+<br><br>
