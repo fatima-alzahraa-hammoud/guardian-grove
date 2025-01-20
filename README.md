@@ -86,12 +86,12 @@
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
     <img src="./readme/demo/UsersModel.png" width="500px"/>
     <img src="./readme/demo/FamilyModel.png" width="500px"/>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
     <img src="./readme/demo/ChatModel.png" width="500px"/>
     <img src="./readme/demo/AdventuresModel.png" width="500px"/>
 </div>
