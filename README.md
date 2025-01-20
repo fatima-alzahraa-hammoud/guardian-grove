@@ -99,3 +99,82 @@
 </div>
 
 <br><br>
+
+
+<!-- How to Run -->
+<img src="./readme/title10.svg"/>
+
+> To set up Guardian Grove locally, follow these steps:
+
+### Prerequisites
+
+Before you begin, ensure the following are installed and configured on your system:
+
+- **Node.js** (v16+): JavaScript runtime for the app.  
+- **npm** or **yarn**: Dependency managers (included with Node.js).  
+- **Vite**: Fast build tool for the frontend project.  
+- **MongoDB**: NoSQL database (local or [Atlas](https://www.mongodb.com/atlas)).  
+- **Cloudinary API Key**: For image uploads ([Sign up](https://cloudinary.com/)).  
+- **ElevenLabs API Key**: For voice features ([Sign up](https://elevenlabs.io/)).  
+- **OpenAI API Key**: For AI content ([Sign up](https://platform.openai.com/)).  
+
+> Make sure all API keys are set in the environment variables or configuration files as required by the application.
+
+
+### Steps to Run the Project
+
+#### 1. **Clone the Repository with Submodules** 
+
+   ```bash
+   git clone --recurse-submodules https://github.com/fatima-alzahraa-hammoud/guardian-grove
+   cd <guardian-grove>
+   ```
+   
+#### 2. **Navigate to Submodules**
+
+#### for frontend:
+
+   ```bash
+   cd guardian-grove-frontend
+   npm install
+   ```
+#### for backend:
+
+   ```bash
+   cd guardian-grove-backend
+   npm install
+   ```
+
+#### 3. **Set Up Environment Variables**
+
+> Create **.env** files in backend:
+
+#### Backend:
+- MONGO_URI= < Your MongoDB connection string >
+- CLOUDINARY_KEY= < Your Cloudinary API key >
+- CLOUDINARY_API_SECRET= < Your Cloudinary API secret >
+- ELEVENLABS_KEY= < Your ElevenLabs API key >
+- OPENAI_KEY= < Your OpenAI API key >
+- JWT_SECRET= < Your secret key for JWT authentication >
+
+#### 3. **Run the Project**
+>Start both the frontend and backend services:
+
+#### Frontend:
+
+   ```bash
+   cd guardian-grove-frontend
+   npm run dev
+   ```
+#### Backend:
+
+   ```bash
+   cd guardian-grove-backend
+   npm start
+   ```
+<br>
+
+> 💡 Tip: Use tools like [Postman](https://www.postman.com/) to test API endpoints or [Vite](https://vite.dev/) for faster frontend builds.
+
+### **Then, Welcome to Guardian Grove😊!**
+**Now, You should be able to run Guardian Grove locally and explore its features.**
