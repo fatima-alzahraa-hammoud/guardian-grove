@@ -13,23 +13,15 @@
 
 #### User (Common to All)
 
-- As a user, I want to communicate with my AI friend for guidance, tasks, and updates.
+- As a user, I want to communicate with my AI friend for guidance, tasks, updates, learn, and generate plans.
 
-- As a user, I want to track my progress and achievements to stay motivated and engaged.
+- As a user, I want to monitor my progress and achievements while earning rewards to stay motivated and engaged.
 
-- As a user, I want to receive personalized tasks and goals to help me grow and develop.
+- As a user, I want to receive personalized tasks and goals that support my growth and development.
 
-- As a user, I want to earn rewards (stars/coins) for completing tasks to keep me motivated.
+- As a user, I want to participate in family activities, events, and adventures to bond with my family, compete with other families, and shine on the leaderboard.
 
-- As a user, I want to participate in family activities and events to bond with my family.
-
-- As a user, I want to store and share memories in a family journal to cherish special moments.
-
-- As a user, I want to see my rank on the leaderboard to track my progress and compete with my family.
-
-- As a user, I want to be part of family adventures and activities that allow me to spend time with my parents.
-
-- As a user, I want to use the coins to buy items from the store.
+- As a user, I want to preserve and share memories in a family journal to cherish special moments.
 
 #### Parent
 
@@ -41,10 +33,6 @@
 
 - As a parent, I want to be notified of my child’s mood, location, inappropriate sounds, and progress to stay informed and offer support.
 
-- As a parent, I want to set family goals and encourage participation through shared tasks and rewards.
-
-- As a parent, I want to track my family’s progress on the leaderboard to celebrate our collective achievements.
-
 #### Child
 
 - As a child, I want a space to express creativity (drawing, storytelling) and share it with my family.
@@ -52,8 +40,6 @@
 #### Admin
 
 - As an admin, I want to manage and monitor user accounts to ensure smooth operation.
-
-- As an admin, I can update content, tasks, and features dynamically to improve user experience.
 
 - As an admin, I want to review analytics and user feedback to enhance platform performance.
 
