@@ -75,9 +75,9 @@
 
 
 ### Mockups
-| Login screen  | Adventures Screen | AIFriend Screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/login.png) | ![fsdaf](./readme/demo/Adventures.png) | ![fsdaf](./readme/demo/AIFriend.png) |
+| Adventures Screen | AIFriend Screen |
+| ---| ---|
+| ![Adventures](./readme/demo/Adventures.png) | ![fsdaf](./readme/demo/AIFriend.png) |
 
 <br><br>
 
