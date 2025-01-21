@@ -122,10 +122,15 @@
 <img src="./readme/title6.svg"/>
 
 
-### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
-| ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+### User Screens
+| Login screen  | Register screen | 
+| ---| ---|
+| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+
+| Landing screen | Loading screen |
+| ---| ---|
+| ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+
 | Home screen  | Menu Screen | Order Screen | Checkout Screen |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
@@ -170,7 +175,19 @@ Through **prompt engineering**, **Guardian Grove** ensures that the AI is always
 
 ###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
 
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
+**Our AI-powered application harnesses AWS to deliver reliable and scalable solutions. Here's what makes our APIs special:**
+
+- Most of our endpoints like checkAnswer and generateGoals respond quickly (1.41-2.2s), while generateTrackMyDay takes around 11.51s for more thoughtful responses. Our star player, generateAdventures, takes about 11.96s but for good reason - it creates 7 unique daily challenges that keep users engaged throughout the week!
+
+- We've optimized our AWS setup to handle these varying response times efficiently, ensuring a smooth experience whether you're checking a quick answer or getting your weekly adventure pack.
+
+| generateGoals API  | checkAnswer API | 
+| ---| ---|
+| ![GenerateGoal](./readme/aws/generateGoalsAws.png) | ![fsdaf](./readme/aws/checkAnswerAws.png) |
+
+| generateAdventures screen | generateTrackMyDay API |
+| ---| ---|
+| ![fsdaf](./readme/aws/generateAdventureAws.png) | ![fsdaf](./readme/aws/generateTrackMyDayAws.png) |
 
 <!-- Unit Testing 
 <img src="./readme/title9.svg"/>
