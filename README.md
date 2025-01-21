@@ -178,16 +178,25 @@ Through **prompt engineering**, **Guardian Grove** ensures that the AI is always
 **Our AI-powered application harnesses AWS to deliver reliable and scalable solutions. Here's what makes our APIs special:**
 
 - Most of our endpoints like checkAnswer and generateGoals respond quickly (1.41-2.2s), while generateTrackMyDay takes around 11.51s for more thoughtful responses. Our star player, generateAdventures, takes about 11.96s but for good reason - it creates 7 unique daily challenges that keep users engaged throughout the week!
-
 - We've optimized our AWS setup to handle these varying response times efficiently, ensuring a smooth experience whether you're checking a quick answer or getting your weekly adventure pack.
 
-| generateGoals API  | checkAnswer API | 
-| ---| ---|
-| ![GenerateGoal](./readme/aws/generateGoalsAws.png) | ![fsdaf](./readme/aws/checkAnswerAws.png) |
+#### Description of every API:
 
-| generateAdventures screen | generateTrackMyDay API |
+- `generateGoals:` The AI daily generates personal and family goals for users, containing specific tasks that promote personal growth
+
+- `generateAdventures:` Every day, the AI creates an adventure with 7 challenges, enabling families to compete and solve them together
+
+- `checkAnswer:` Validates user answers for challenges, returning true if correct and false if incorrect
+
+- `generateTrackMyDay:` Provides users with AI-generated daily summaries tracking their activities and progress
+
+| generateGoals API   | generateAdventures API | 
 | ---| ---|
-| ![fsdaf](./readme/aws/generateAdventureAws.png) | ![fsdaf](./readme/aws/generateTrackMyDayAws.png) |
+| ![GenerateGoal](./readme/aws/generateGoalsAws.png) | ![fsdaf](./readme/aws/generateAdventureAws.png) |
+
+| checkAnswer API | generateTrackMyDay API |
+| ---| ---|
+| ![fsdaf](./readme/aws/checkAnswerAws.png) | ![fsdaf](./readme/aws/generateTrackMyDayAws.png) |
 
 <!-- Unit Testing 
 <img src="./readme/title9.svg"/>
