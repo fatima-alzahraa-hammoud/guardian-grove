@@ -11,8 +11,8 @@
 
 ### User Stories
 
-#### User (Common to All)
-
+#### User
+---
 - As a user, I want to communicate with my AI friend for guidance, tasks, updates, learn, and generate plans.
 
 - As a user, I want to monitor my progress and achievements while earning rewards to stay motivated and engaged.
@@ -24,7 +24,7 @@
 - As a user, I want to preserve and share memories in a family journal to cherish special moments.
 
 #### Parent
-
+---
 - As a parent, I want personalized growth plans and insights for my child to support their learning and development.
 
 - As a parent, I want to monitor and track my child’s activities to ensure their safety and growth.
@@ -34,11 +34,11 @@
 - As a parent, I want to be notified of my child’s mood, location, inappropriate sounds, and progress to stay informed and offer support.
 
 #### Child
-
+---
 - As a child, I want a space to express creativity (drawing, storytelling) and share it with my family.
 
 #### Admin
-
+---
 - As an admin, I want to manage and monitor user accounts to ensure smooth operation.
 
 - As an admin, I want to review analytics and user feedback to enhance platform performance.
@@ -86,6 +86,8 @@
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
 
+#### Models
+---
 <div style="display: flex;">
     <img src="./readme/demo/UsersModel.png" width="500px"/>
     <img src="./readme/demo/FamilyModel.png" width="500px"/>
@@ -99,6 +101,18 @@
 <div style="display: flex; justify-content: space-between;">
     <img src="./readme/demo/AchievementsModel.png" width="500px"/>
     <img src="./readme/demo/StoreModel.png" width="500px"/>
+</div>
+
+#### Embedded Schemas
+---
+<div style="display: flex;">
+    <img src="./readme/demo/goalsAndTasksSchema.png" width="500px"/>
+    <img src="./readme/demo/AdventuresAndChallengesProgressSchema.png" width="500px"/>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="./readme/demo/PurchasedItemsAndUnlockedAchievements.png" width="500px"/>
+    <img src="./readme/demo/notificationsSchema.png" width="500px"/>
 </div>
 
 <br><br>
@@ -199,9 +213,8 @@ Before you begin, ensure the following are installed and configured on your syst
 
 #### 3. **Set Up Environment Variables**
 
-> Create **.env** files in backend:
+#### Create **.env** files in backend:
 
-#### Backend:
 - MONGO_URI= < Your MongoDB connection string >
 - CLOUDINARY_KEY= < Your Cloudinary API key >
 - CLOUDINARY_API_SECRET= < Your Cloudinary API secret >
