@@ -260,6 +260,7 @@ Before you begin, ensure the following are installed and configured on your syst
 - CLOUDINARY_KEY= < Your Cloudinary API key >
 - CLOUDINARY_API_SECRET= < Your Cloudinary API secret >
 - ELEVENLABS_KEY= < Your ElevenLabs API key >
+- VOICEID = < Choose your Voice Id >
 - OPENAI_KEY= < Your OpenAI API key >
 - JWT_SECRET= < Your secret key for JWT authentication >
 
