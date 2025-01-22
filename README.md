@@ -56,7 +56,7 @@
 - This project is developed using the [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/) frameworks. React enables a dynamic and responsive user interface, while TypeScript ensures strong typing for more robust and maintainable code.
 
 - For state management, the app leverages [Redux Toolkit](https://redux-toolkit.js.org/), streamlining global state management and making complex state interactions easier to handle.
-- User authentication and secure backend interactions are implemented using [Express.js](https://expressjs.com/) and [Node.js](https://nodejs.org/en), all written in TypeScript. This ensures a fast, lightweight, and type-safe API for handling user data and custom AI interactions.
+- User authentication and secure backend interactions are implemented using [Express.js](https://expressjs.com/) and [Node.js](https://nodejs.org/en) with JWT (JSON Web Tokens) for secure authentication and authorization, all written in TypeScript. This ensures a fast, lightweight, and type-safe API for handling user data and custom AI interactions.
 - The app’s AI assistant is powered by [OpenAI's API](https://platform.openai.com/docs), enabling intelligent, context-aware conversations and personalized goal-setting for children and parents.
 - For database and persistent storage, [MongoDB](https://www.mongodb.com/) is used to manage data efficiently and reliably.
 - Image, videos, audios uploads are handled through [Cloudinary](https://cloudinary.com/), allowing seamless media management and transformation.
