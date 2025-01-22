@@ -170,8 +170,7 @@
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
-
+### AI Family Companion: Creating Magical Interactions Through Prompts
 
 In **Guardian Grove**, we leverage advanced **prompt engineering** to enhance interactions with our AI-powered chatbot. Powered by **OpenAI's GPT-4**, the chatbot is designed to provide personalized support for both parents and children. Through careful design of input prompts, we ensure the AI understands and responds accurately to the needs of each family member—whether it's offering parenting tips, helping children with age-appropriate tasks, or tracking progress on family goals.
 
@@ -196,7 +195,8 @@ Through **prompt engineering**, **Guardian Grove** ensures that the AI is always
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+###  Speed Meets Intelligence: AWS-Powered Family Experience
+
 
 **Our AI-powered application harnesses AWS to deliver reliable and scalable solutions. Here's what makes our APIs special:**
 
