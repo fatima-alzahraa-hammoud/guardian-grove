@@ -76,8 +76,8 @@
 
 ### Mockups
 | Adventures Screen | AIFriend Screen |
-| ---| ---|
-| ![Adventures](./readme/demo/Adventures.png) | ![fsdaf](./readme/demo/AIFriend.png) |
+| :---: | :---: |
+| ![Adventures](./readme/demo/Adventures.png) | ![AIFriend](./readme/demo/AIFriend.png) |
 
 <br><br>
 
@@ -106,7 +106,7 @@
 #### Embedded Schemas
 ---
 <div style="display: flex;">
-    <img src="./database/demo/goalsAndTasksSchema.png" width="500px"/>
+    <img src="./database/database/goalsAndTasksSchema.png" width="500px"/>
     <img src="./readme/database/AdventuresAndChallengesProgressSchema.png" width="500px"/>
 </div>
 
@@ -124,27 +124,42 @@
 
 ### User Screens
 | Login screen  | Register screen | 
-| ---| ---|
+| :---: | :---: |
 | ![Landing](./readme/gifs/login.gif) | ![fsdaf](./readme/gifs/SignUp.gif) |
 
-| Landing screen | Loading screen |
-| ---| ---|
-| ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| MyProfile screen | Family tree screen |
+| :---: | :---: |
+| ![fsdaf](./readme/gifs/myProfile.gif) | ![fsdaf](./readme/gifs/FamliyTree.gif) |
 
-| Home screen  | Menu Screen |
-| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| Goals screen  | Adventures screen |
+| :---: | :---: |
+| ![Landing](./readme/gifs/goals.gif) | ![fsdaf](./readme/gifs/adventures.gif) |
 
-| Order Screen | Checkout Screen |
-| ---| ---|
-| ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| AI friend voice screen | AI friend quick tip screen |
+| :---: | :---: |
+| ![fsdaf](./readme/gifs/AIFriend.gif) | ![fsdaf](./readme/gifs/AIQuickTip.gif) |
 
+| AI friend generate plan screen | Update password screen |
+| :---: | :---: |
+| ![fsdaf](./readme/gifs/AIGeneratePlan.gif) | ![fsdaf](./readme/gifs/updatePassword.gif) |
+
+| Leaderboard screen  | Store screen |
+| :---: | :---: |
+| ![Landing](./readme/gifs/Leaderboard.gif) | ![fsdaf](./readme/gifs/Store.gif) |
+
+| Achievements screen  | Notifications screen |
+| :---: | :---: |
+| ![Landing](./readme/gifs/Achievements.gif) | ![fsdaf](./readme/gifs/Notifications.gif) |
+
+
+<!--
 ### Admin Screens (Web)
 | Login screen  | Register screen |  Landing screen |
 | ---| ---| ---|
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 | Home screen  | Menu Screen | Order Screen |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+-->
 
 <br><br>
 
