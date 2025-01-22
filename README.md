@@ -89,30 +89,30 @@
 #### Models
 ---
 <div style="display: flex;">
-    <img src="./readme/demo/UsersModel.png" width="500px"/>
-    <img src="./readme/demo/FamilyModel.png" width="500px"/>
+    <img src="./readme/database/UsersModel.png" width="500px"/>
+    <img src="./readme/database/FamilyModel.png" width="500px"/>
 </div>
 
 <div style="display: flex;">
-    <img src="./readme/demo/ChatModel.png" width="500px"/>
-    <img src="./readme/demo/AdventuresModel.png" width="500px"/>
+    <img src="./readme/database/ChatModel.png" width="500px"/>
+    <img src="./readme/database/AdventuresModel.png" width="500px"/>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./readme/demo/AchievementsModel.png" width="500px"/>
-    <img src="./readme/demo/StoreModel.png" width="500px"/>
+    <img src="./readme/database/AchievementsModel.png" width="500px"/>
+    <img src="./readme/database/StoreModel.png" width="500px"/>
 </div>
 
 #### Embedded Schemas
 ---
 <div style="display: flex;">
-    <img src="./readme/demo/goalsAndTasksSchema.png" width="500px"/>
-    <img src="./readme/demo/AdventuresAndChallengesProgressSchema.png" width="500px"/>
+    <img src="./database/demo/goalsAndTasksSchema.png" width="500px"/>
+    <img src="./readme/database/AdventuresAndChallengesProgressSchema.png" width="500px"/>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./readme/demo/PurchasedItemsAndUnlockedAchievements.png" width="500px"/>
-    <img src="./readme/demo/notificationsSchema.png" width="500px"/>
+    <img src="./readme/database/PurchasedItemsAndUnlockedAchievements.png" width="500px"/>
+    <img src="./readme/database/notificationsSchema.png" width="500px"/>
 </div>
 
 <br><br>
@@ -125,14 +125,19 @@
 ### User Screens
 | Login screen  | Register screen | 
 | ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| ![Landing](./readme/gifs/login.gif) | ![fsdaf](./readme/gifs/SignUp.gif) |
 
 | Landing screen | Loading screen |
 | ---| ---|
 | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| Home screen  | Menu Screen |
+| ---| ---|
+| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+
+| Order Screen | Checkout Screen |
+| ---| ---|
+| ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
 ### Admin Screens (Web)
 | Login screen  | Register screen |  Landing screen |
