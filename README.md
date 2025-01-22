@@ -88,31 +88,31 @@
 
 #### Models
 ---
-<div style="display: flex;">
-    <img src="./readme/database/UsersModel.png" width="500px"/>
-    <img src="./readme/database/FamilyModel.png" width="500px"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="./readme/database/UsersModel.png" width="400px"/>
+    <img src="./readme/database/FamilyModel.png" width="400px"/>
 </div>
 
-<div style="display: flex;">
-    <img src="./readme/database/ChatModel.png" width="500px"/>
-    <img src="./readme/database/AdventuresModel.png" width="500px"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./readme/database/ChatModel.png" width="400px"/>
+    <img src="./readme/database/AdventuresModel.png" width="400px"/>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="./readme/database/AchievementsModel.png" width="500px"/>
-    <img src="./readme/database/StoreModel.png" width="500px"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./readme/database/AchievementsModel.png" width="400px"/>
+    <img src="./readme/database/StoreModel.png" width="400px"/>
 </div>
 
 #### Embedded Schemas
 ---
-<div style="display: flex;">
-    <img src="./database/database/goalsAndTasksSchema.png" width="500px"/>
-    <img src="./readme/database/AdventuresAndChallengesProgressSchema.png" width="500px"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./readme/database/goalsAndTasksSchema.png" width="400px"/>
+    <img src="./readme/database/AdventuresAndChallengesProgressSchema.png" width="400px"/>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="./readme/database/PurchasedItemsAndUnlockedAchievements.png" width="500px"/>
-    <img src="./readme/database/notificationsSchema.png" width="500px"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./readme/database/PurchasedItemsAndUnlockedAchievements.png" width="400px"/>
+    <img src="./readme/database/notificationsSchema.png" width="400px"/>
 </div>
 
 <br><br>
