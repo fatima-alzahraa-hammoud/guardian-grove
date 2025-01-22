@@ -106,7 +106,7 @@
 #### Embedded Schemas
 ---
 <div style="display: flex;">
-    <img src="./database/database/goalsAndTasksSchema.png" width="500px"/>
+    <img src="./readme/database/goalsAndTasksSchema.png" width="500px"/>
     <img src="./readme/database/AdventuresAndChallengesProgressSchema.png" width="500px"/>
 </div>
 
@@ -186,7 +186,7 @@ Through **prompt engineering**, **Guardian Grove** ensures that the AI is always
 
 *An illustration showcasing how AI creates exciting adventures and challenges to foster growth and engagement.*
 
-<img src="./readme/demo/promptEngineering.png"/>
+<img src="./readme/database/promptEngineering.png"/>
 
 <br><br>
 
