@@ -4,3 +4,6 @@
 [submodule "guardian-grove-backend"]
 	path = guardian-grove-backend
 	url = https://github.com/fatima-alzahraa-hammoud/guardian-grove-backend.git
+[submodule "guardian-grove-mobile"]
+	path = guardian-grove-mobile
+	url = https://github.com/fatima-alzahraa-hammoud/guardian-grove-mobile.git
